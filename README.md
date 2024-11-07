@@ -1,6 +1,6 @@
 # *MASTERMIND*
 ### Diego Grajeda Rodriguez
-(PD: he trigat, pràcticament, 6 dies dedicant tot els temps que tenia disponible. Penso que no es el millor codi doncs perquè soc bastant novell programant i he necessitat de varies consultes per realitzar segons quines accions en el codi) 
+(PD: he trigat, pràcticament, 6 dies dedicant tot els temps que tenia disponible. Penso que no es el millor codi doncs perquè soc bastant novell programant i he necessitat de varies consultes per realitzar segons quines accions en el codi) :(
 
 ## CRITERIS D'AVALUACIÓ
 ## Robust
