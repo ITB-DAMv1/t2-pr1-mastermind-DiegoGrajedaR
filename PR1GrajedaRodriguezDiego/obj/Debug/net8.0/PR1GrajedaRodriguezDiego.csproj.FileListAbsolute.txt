@@ -1,0 +1,14 @@
+C:\Users\isard\Documents\Programacio\practica_mastermind\PR1GrajedaRodriguezDiego\bin\Debug\net8.0\PR1GrajedaRodriguezDiego.exe
+C:\Users\isard\Documents\Programacio\practica_mastermind\PR1GrajedaRodriguezDiego\bin\Debug\net8.0\PR1GrajedaRodriguezDiego.deps.json
+C:\Users\isard\Documents\Programacio\practica_mastermind\PR1GrajedaRodriguezDiego\bin\Debug\net8.0\PR1GrajedaRodriguezDiego.runtimeconfig.json
+C:\Users\isard\Documents\Programacio\practica_mastermind\PR1GrajedaRodriguezDiego\bin\Debug\net8.0\PR1GrajedaRodriguezDiego.dll
+C:\Users\isard\Documents\Programacio\practica_mastermind\PR1GrajedaRodriguezDiego\bin\Debug\net8.0\PR1GrajedaRodriguezDiego.pdb
+C:\Users\isard\Documents\Programacio\practica_mastermind\PR1GrajedaRodriguezDiego\obj\Debug\net8.0\PR1GrajedaRodriguezDiego.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isard\Documents\Programacio\practica_mastermind\PR1GrajedaRodriguezDiego\obj\Debug\net8.0\PR1GrajedaRodriguezDiego.AssemblyInfoInputs.cache
+C:\Users\isard\Documents\Programacio\practica_mastermind\PR1GrajedaRodriguezDiego\obj\Debug\net8.0\PR1GrajedaRodriguezDiego.AssemblyInfo.cs
+C:\Users\isard\Documents\Programacio\practica_mastermind\PR1GrajedaRodriguezDiego\obj\Debug\net8.0\PR1GrajedaRodriguezDiego.csproj.CoreCompileInputs.cache
+C:\Users\isard\Documents\Programacio\practica_mastermind\PR1GrajedaRodriguezDiego\obj\Debug\net8.0\PR1GrajedaRodriguezDiego.dll
+C:\Users\isard\Documents\Programacio\practica_mastermind\PR1GrajedaRodriguezDiego\obj\Debug\net8.0\refint\PR1GrajedaRodriguezDiego.dll
+C:\Users\isard\Documents\Programacio\practica_mastermind\PR1GrajedaRodriguezDiego\obj\Debug\net8.0\PR1GrajedaRodriguezDiego.pdb
+C:\Users\isard\Documents\Programacio\practica_mastermind\PR1GrajedaRodriguezDiego\obj\Debug\net8.0\PR1GrajedaRodriguezDiego.genruntimeconfig.cache
+C:\Users\isard\Documents\Programacio\practica_mastermind\PR1GrajedaRodriguezDiego\obj\Debug\net8.0\ref\PR1GrajedaRodriguezDiego.dll
