@@ -41,7 +41,7 @@ Output:
 - Valor obtingut: opció no vàlida, posa una altra opció disponible
 
 
-![cas1]()
+![cas1](Imagenes_practicaMastermind/caso1.png)
 
 
 ### Cas 2
