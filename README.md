@@ -29,6 +29,151 @@ Crec que el disseny modular es bastant pobre o inexistent.
 Hi ha diferents jocs de proves realitzats, estan com imatges al repositori.
 He tractat que siguin variats.
 
+### Cas 1
+
+Comprovem si l'extrem del rang, més petit, funciona correctament en la Combinació.
+
+Variables:
+- Combinacio secreta: 1111
+- Combinacio d'usuari: 1111
+
+Output:
+- Valor esperat: OOOO
+- Valor obtingut: OOOO
+
+
+Sortida de consola:
+
+![cas1](\Imagenes_practicaMastermind\caso1.png)
+
+
+
+### Cas 2
+
+Comprovem si en la pantalla principal a l'hora de escollir alguna dificultat poso una opcio no disponible -->
+
+Input:
+- opcio: 8
+
+Output:
+- Valor esperat: opció no vàlida, posa una altra opció disponible
+- Valor obtingut: opció no vàlida, posa una altra opció disponible
+
+Sortida de consola:
+
+![cas2]()
+
+
+### Cas 3
+
+Comprovem si l'extrem del rang, més petit, funciona correctament en la Combinació.
+
+Variables:
+- Combinacio secreta: 1111
+- Combinacio d'usuari: 1111
+
+Output:
+- Valor esperat: OOOO
+- Valor obtingut: OOOO
+
+
+Sortida de consola:
+
+![cas3]()
+
+
+### Cas 4
+
+Comprovem si l'extrem del rang, més gran, funciona correctament en la Combinació.
+
+Variables:
+- Combinacio secreta: 6666
+- Combinacio d'usuari: 6666
+
+Output:
+- Valor esperat: OOOO
+- Valor obtingut: OOOO
+
+
+Sortida de consola:
+
+
+Sortida de consola:
+
+![cas4]()
+
+
+### Cas 5
+
+Comprovem que passa en inserir un número inferior al rang.
+
+Variables:
+- Combinacio secreta: 4545
+- Combinacio d'usuari: -1-2-3-4
+
+Output:
+- Valor esperat: Missatge d'error
+- Valor obtingut: Missatge d'error
+
+
+Sortida de consola:
+
+![cas5]()
+
+
+### Cas 6
+
+Comprovem que passa en inserir un string.
+
+Variables:
+- Combinacio secreta: 4545
+- Combinacio d'usuari: miaw
+
+Output:
+- Valor esperat: Missatge d'error
+- Valor obtingut: Missatge d'error
+
+
+Sortida de consola:
+
+![cas6]()
+
+
+### Cas 7
+
+Comprovem que passa en inserir un número dins del rang però incorrecte completament.
+
+Variables:
+- Combinacio secreta: 4545
+- Combinacio d'usuari: 1111
+
+Output:
+- Valor esperat: ××××
+- Valor obtingut: ××××
+
+
+Sortida de consola:
+
+![cas7]()
+
+
+### Cas 8
+
+Comprovem que passa en inserir un número dins del rang però incorrecta posició.
+
+Variables:
+- Combinacio secreta: 4545
+- Combinacio d'usuari: 5454
+
+Output:
+- Valor esperat: ØØØØ
+- Valor obtingut: ØØØØ
+
+
+Sortida de consola:
+
+![cas8](/img/cas8.png)
+
 ## UX/UI
 L'interfaç crec que s'enten prou bé a l'hora de jugar i sempre que llegeixis el que posa.
 
