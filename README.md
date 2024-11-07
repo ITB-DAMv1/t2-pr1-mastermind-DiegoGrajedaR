@@ -44,7 +44,7 @@ Output:
 
 Sortida de consola:
 
-![cas1](\Imagenes_practicaMastermind\caso1.png)
+![cas1]("D:\DAMv1\Programacion\Imagenes_practicaMastermind\caso1.png")
 
 
 
