@@ -57,7 +57,7 @@ Output:
 - Valor obtingut: nombre d'intents no vàlid i torna a demanar escollir una opció de dificultat
 
 
-![cas2]()
+![cas2](Imagenes_practicaMastermind/caso2.png)
 
 
 ### Cas 3
@@ -73,7 +73,7 @@ Output:
 - Valor obtingut: Guanyes
 
 
-![cas3]()
+![cas3](Imagenes_practicaMastermind/caso3.png)
 
 
 ### Cas 4
@@ -89,7 +89,7 @@ Output:
 - Valor obtingut: OXXØ
 
 
-![cas4]()
+![cas4](Imagenes_practicaMastermind/caso4.png)
 
 
 ### Cas 5
@@ -105,7 +105,7 @@ Output:
 - Valor obtingut: nombre no vàlid i torna a introduir un nombre vàlid (cada digit que no compleix)
 
 
-![cas5]()
+![cas5](Imagenes_practicaMastermind/caso5.png)
 
 
 ### Cas 6
@@ -121,7 +121,7 @@ Output:
 - Valor obtingut: nombre no vàlid i torna a introduir, en aquest cas, el primer nombre de combinacio d'usuari
 
 
-![cas6]()
+![cas6](Imagenes_practicaMastermind/caso6.png)
 
 
 ### Cas 7
@@ -137,7 +137,7 @@ Output:
 - Valor obtingut: XXXX
 
 
-![cas7]()
+![cas7](Imagenes_practicaMastermind/caso7.png)
 
 
 ### Cas 8
@@ -153,7 +153,7 @@ Output:
 - Valor obtingut: joc terminat, combinacio secreta...
 
 
-![cas8](/img/cas8.png)
+![cas8](Imagenes_practicaMastermind/caso8.png)
 
 ## UX/UI
 L'interfaç crec que s'enten prou bé a l'hora de jugar i sempre que llegeixis el que posa.
