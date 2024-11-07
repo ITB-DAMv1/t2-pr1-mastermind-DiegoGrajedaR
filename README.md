@@ -31,25 +31,6 @@ He tractat que siguin variats.
 
 ### Cas 1
 
-Comprovem si l'extrem del rang, més petit, funciona correctament en la Combinació.
-
-Variables:
-- Combinacio secreta: 1111
-- Combinacio d'usuari: 1111
-
-Output:
-- Valor esperat: OOOO
-- Valor obtingut: OOOO
-
-
-Sortida de consola:
-
-![cas1]("D:\DAMv1\Programacion\Imagenes_practicaMastermind\caso1.png")
-
-
-
-### Cas 2
-
 Comprovem si en la pantalla principal a l'hora de escollir alguna dificultat poso una opcio no disponible -->
 
 Input:
@@ -59,118 +40,118 @@ Output:
 - Valor esperat: opció no vàlida, posa una altra opció disponible
 - Valor obtingut: opció no vàlida, posa una altra opció disponible
 
-Sortida de consola:
+
+![cas1]()
+
+
+### Cas 2
+
+Comprovem si en la pantalla principal quan seleccionem opcio 5, escollir nombre d'intents, introduim un nombre d'intents fora del rang (1-99) -->
+
+Input:
+- opcio: 5
+- nombre d'intents: 100
+
+Output:
+- Valor esperat: nombre d'intents no vàlid
+- Valor obtingut: nombre d'intents no vàlid i torna a demanar escollir una opció de dificultat
+
 
 ![cas2]()
 
 
 ### Cas 3
 
-Comprovem si l'extrem del rang, més petit, funciona correctament en la Combinació.
+Comprovem si combinacio de l'usuari accepta (1111) extrem del rang més petit -->
 
-Variables:
+Input:
 - Combinacio secreta: 1111
 - Combinacio d'usuari: 1111
 
 Output:
-- Valor esperat: OOOO
-- Valor obtingut: OOOO
+- Valor esperat: Guanyes
+- Valor obtingut: Guanyes
 
-
-Sortida de consola:
 
 ![cas3]()
 
 
 ### Cas 4
 
-Comprovem si l'extrem del rang, més gran, funciona correctament en la Combinació.
+Comprovem si combinacio de l'usuari accepta un nombre dins del rang pero no es la combinacio secreta -->
 
-Variables:
-- Combinacio secreta: 6666
-- Combinacio d'usuari: 6666
+Input:
+- Combinacio secreta: 4521
+- Combinacio d'usuari: 4632
 
 Output:
-- Valor esperat: OOOO
-- Valor obtingut: OOOO
+- Valor esperat: OXXØ
+- Valor obtingut: OXXØ
 
-
-Sortida de consola:
-
-
-Sortida de consola:
 
 ![cas4]()
 
 
 ### Cas 5
 
-Comprovem que passa en inserir un número inferior al rang.
+Comprovem si combinacio de l'usuari accepta un nombre fora del rang -->
 
-Variables:
+Input:
 - Combinacio secreta: 4545
-- Combinacio d'usuari: -1-2-3-4
+- Combinacio d'usuari: -1048
 
 Output:
-- Valor esperat: Missatge d'error
-- Valor obtingut: Missatge d'error
+- Valor esperat: nombre no vàlid i torna a introduir un nombre vàlid (cada digit que no compleix)
+- Valor obtingut: nombre no vàlid i torna a introduir un nombre vàlid (cada digit que no compleix)
 
-
-Sortida de consola:
 
 ![cas5]()
 
 
 ### Cas 6
 
-Comprovem que passa en inserir un string.
+Comprovem que pasa quan introduim un string -->
 
-Variables:
+Input:
 - Combinacio secreta: 4545
-- Combinacio d'usuari: miaw
+- Combinacio d'usuari: h545
 
 Output:
-- Valor esperat: Missatge d'error
-- Valor obtingut: Missatge d'error
+- Valor esperat: nombre no vàlid i torna a introduir, en aquest cas, el primer nombre de combinacio d'usuari
+- Valor obtingut: nombre no vàlid i torna a introduir, en aquest cas, el primer nombre de combinacio d'usuari
 
-
-Sortida de consola:
 
 ![cas6]()
 
 
 ### Cas 7
 
-Comprovem que passa en inserir un número dins del rang però incorrecte completament.
+Comprovem que passa quan introduim una combinacio dintre del rang pero tot errat -->
 
 Variables:
 - Combinacio secreta: 4545
 - Combinacio d'usuari: 1111
 
 Output:
-- Valor esperat: ××××
-- Valor obtingut: ××××
+- Valor esperat: XXXX
+- Valor obtingut: XXXX
 
-
-Sortida de consola:
 
 ![cas7]()
 
 
 ### Cas 8
 
-Comprovem que passa en inserir un número dins del rang però incorrecta posició.
+Comprovem que passa quan hem arribat al limit de intents -->
 
 Variables:
-- Combinacio secreta: 4545
-- Combinacio d'usuari: 5454
+- IntentsMax: 1
+- Intents: 1
 
 Output:
-- Valor esperat: ØØØØ
-- Valor obtingut: ØØØØ
+- Valor esperat: joc terminat, combinacio secreta...
+- Valor obtingut: joc terminat, combinacio secreta...
 
-
-Sortida de consola:
 
 ![cas8](/img/cas8.png)
 
